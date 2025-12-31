@@ -58,11 +58,13 @@ This project demonstrates a complete bank analytics workflow:
 ## 📸 Dashboard Previews
 
 ### Power BI Dashboard
-![Power BI Dashboard](assets/dashboard1.png)
+![Power BI Dashboard](Bank_Analytics/Assets/PowerBi_Dash.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](assets/dashboard2.png)
+![Tableau Dashboard](Bank_Analytics/Assets/Tableau_Dash.png)
 
+### Excel Dashboard
+![Excel Dashboard](Bank_Analytics/Assets/Excel_Dash.png)
 
 ---
 
