@@ -53,7 +53,6 @@ This project demonstrates a complete bank analytics workflow:
 
 ---
 
-## 📸 Dashboard Preview
 
 ## 📸 Dashboard Previews
 
